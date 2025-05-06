@@ -1,4 +1,4 @@
-# Coronavirus-Data-Analysis
+# 🦠Coronavirus-Data-Analysis
 This project explores COVID-19 case trends using a multi-step data analysis pipeline involving Excel, SQL, and Tableau. The aim is to extract and clean case data, perform analytical queries, and visualize key trends and patterns in a clear, interactive dashboard.
 
 ## 📊 Project Overview
