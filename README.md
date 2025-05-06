@@ -3,7 +3,7 @@ This project explores COVID-19 case trends using a multi-step data analysis pipe
 
 ## 📊 Project Overview
 
-- **Data Source**: COVID-19 case data was gathered from Our World in Data – COVID-19 dataset, which provides regularly updated global statistics on infections, deaths, testing, and more.
+- **Data Source**: COVID-19 case data was gathered from [Our World in Data](https://ourworldindata.org/covid-deaths), using a COVID-19 dataset, which provides regularly updated global statistics on infections, deaths, testing, and more.
 - **Tools Used**:  
   - **Excel**: For initial data extraction, cleaning, transformation, and preparation.
   - **SQL**: For querying cleaned data, calculating statistics, and answering specific analytical questions.
