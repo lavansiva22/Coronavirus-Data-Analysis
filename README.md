@@ -1,7 +1,7 @@
-# 🦠 Coronavirus-Data-Analysis
+# Coronavirus-Data-Analysis
 This project explores COVID-19 case trends using a multi-step data analysis pipeline involving Excel, SQL, and Tableau. The aim is to extract and clean case data, perform analytical queries, and visualize key trends and patterns in a clear, interactive dashboard.
 
-## 📊 Project Overview
+## Project Overview
 
 - **Data Source**: COVID-19 case data was gathered from [Our World in Data](https://ourworldindata.org/covid-deaths), using a COVID-19 dataset, which provides regularly updated global statistics on infections, deaths, testing, and more.
 - **Tools Used**:  
@@ -9,7 +9,7 @@ This project explores COVID-19 case trends using a multi-step data analysis pipe
   - **SQL**: For querying cleaned data, calculating statistics, and answering specific analytical questions.
   - **Tableau**: For creating an interactive dashboard that showcases insights with visual clarity.
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Clean and structure the raw dataset to prepare it for analysis.
 - Use SQL queries to uncover insights, such as:
@@ -18,7 +18,7 @@ This project explores COVID-19 case trends using a multi-step data analysis pipe
   - Recovery and death trends by region
 - Visualize results using Tableau for clear communication and exploration.
 
-## 🔍 Key Features
+## Key Features
 
 - Step-by-step data workflow: From raw data to clean visual insights
 - SQL-powered analysis: Efficient queries for slicing and summarizing data
@@ -29,7 +29,7 @@ This project explores COVID-19 case trends using a multi-step data analysis pipe
   - Case growth rate by region
   - Population-normalized statistics
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Automate data updates with Python or APIs
 - Add vaccination data for deeper trend analysis
